@@ -14,7 +14,7 @@ This is a project built using react technology. Users can perform arithmetic cal
 
 ### Get started
 
-- Fork the [repository](https://github.com/LilJoshdev/calculator.git)
+- Fork the [repository](https://github.com/moham-dev99/calculator.git)
 - Install all dependencies using
   ### `npm install`
 -Afterwards, run the project using
