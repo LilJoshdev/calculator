@@ -4,7 +4,7 @@ This is a project built using react technology. Users can perform arithmetic cal
 
 #  Deployed to 👇
 
-- Explore [Project Link](https://liljosh-calcuator.vercel.app/)
+- Explore [Project Link](https://mohamdev-calcuator.vercel.app/)
 
 
 
@@ -20,10 +20,6 @@ This is a project built using react technology. Users can perform arithmetic cal
 -Afterwards, run the project using
  ### `npm start`
 
-## My Social Media
-
-- LinkedIn - [@joshua](https://www.linkedin.com/in/joshua-ehichioya/)
-- Twitter - [@liljoshdev](https://x.com/liljoshdev)
 
 
 #### Screenshot👇
